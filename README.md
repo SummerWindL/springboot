@@ -9,6 +9,8 @@ springboot demo
 大概的结构就是这样，先建立springboot 的mvn项目，也可以通过http://start.spring.io/
 来快速构建自己的springboot项目
 
+如果用本项目的配置，访问路径http://localhost:8081/index.html
+
 pom文件如下：
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
