@@ -3,6 +3,7 @@ springboot demo
 
 目前构建到可以实现websocket局域网通信聊天。
 
+![image](https://github.com/SummerWindL/springboot/resources/1.png)
 
 
 大概的结构就是这样，先建立springboot 的mvn项目，也可以通过http://start.spring.io/
